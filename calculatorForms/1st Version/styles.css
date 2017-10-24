@@ -1,0 +1,55 @@
+p {
+    line-height: normal;
+    margin: 0;
+    padding: 10px;
+    font:  Arial;
+}
+.paper {
+  color: green;
+}
+
+.alternative {
+  color: green;
+}
+.mainTitle {
+  position: relative;
+  top:20px;
+}
+
+.calculate {
+    width: 450px;
+    height: 240px;
+    border: 1px solid black;
+    padding: 10px;
+}
+
+.fnumber {
+  position: relative;
+  right:  -17px;
+}
+
+.result {
+   position: relative;
+   right:  -34px;
+ }
+.opselect {
+    position: relative;
+    right: -16px;
+    padding-left: 31px;
+  }
+.operation {
+    margin-right: 8px;
+  }
+.equality {
+  position: relative;
+  right: -430px;
+}
+big {
+  line-height: 80%;
+  padding: 10px;
+}
+
+input {
+  position: relative;
+  right: -5%;
+}
